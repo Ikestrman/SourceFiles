@@ -1,0 +1,244 @@
+{
+   "teams": [
+      {
+         "Arizona Diamondbacks": {
+            "ballpark": "Chase Field",
+            "Lat": 33.44582431867999,
+            "Long": -112.06668907349152,
+            "Impacted by Rain" :false
+         }
+      },
+      {
+         "Atlanta Braves": {
+            "ballpark": "Truist Park",
+            "Lat": 33.891278324354204,
+            "Long": -84.46844980203973, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "Baltimore Orioles": {
+            "ballpark": "Oriole Park at Camden Yards",
+            "Lat": 39.28414298694784,
+            "Long": -76.62154394425933, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "Boston Red Sox": {
+            "ballpark": "Fenway Park",
+            "Lat": 42.346922193075045,
+            "Long": -71.09711051350499, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "Chicago Cubs": {
+            "ballpark": "Wrigley Field",
+            "Lat": 41.948574031189914,
+            "Long": -87.65533270187068, 
+            "Impacted by Rain" :true
+         }
+      },      
+      {
+         "Chicago White Sox": {
+            "ballpark": "Guaranteed Rate Field",
+            "Lat": 41.83016589244836,
+            "Long": -87.63380584605163, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "Cincinnati Reds": {
+            "ballpark": "Great American Ball Park",
+            "Lat": 39.09758061247238,
+            "Long": -84.50700702892082, 
+            "Impacted by Rain" :true
+         }
+      }, 
+      {
+         "Cleveland Indians": {
+            "ballpark": "Progressive Field",
+            "Lat": 41.49647616318711,
+            "Long": -81.6851538000316, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "Colorado Rockies": {
+            "ballpark": "Coors Field",
+            "Lat": 39.75607198487859,
+            "Long": -104.99415664424899, 
+            "Impacted by Rain" :true
+         }
+      },      
+      {
+         "Detroit Tigers": {
+            "ballpark": "Comerica Park",
+            "Lat": 42.33920457091839,
+            "Long": -83.04851970186158, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "Houston Astros": {
+            "ballpark": "Minute Maid Park",
+            "Lat": 29.757520862026368,
+            "Long": -95.35544992909773, 
+            "Impacted by Rain" :false
+         }
+      },
+      {
+         "Kansas City Royals": {
+            "ballpark": "Kauffman Stadium",
+            "Lat": 39.05193016422485,
+            "Long": -94.48042149029213, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "Los Angeles Angels": {
+            "ballpark": "Angel Stadium",
+            "Lat": 33.80055761330399,
+            "Long": -117.88274283087713, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "Los Angeles Dodgers": {
+            "ballpark": "Dodger Stadium",
+            "Lat": 34.074117586213816,
+            "Long": -118.23992611552934,
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "Miami Marlins": {
+            "ballpark": "Marlins Park",
+            "Lat": 25.77832258425075,
+            "Long": -80.21962125984213, 
+            "Impacted by Rain" :false
+         }
+      },      
+      {
+         "Milwaukee Brewers": {
+            "ballpark": "American Family Field",
+            "Lat": 43.02815796788473,
+            "Long": -87.97109675766706, 
+            "Impacted by Rain" :false
+         }
+      },
+      {
+         "Minnesota Twins": {
+            "ballpark": "Target Field",
+            "Lat": 44.981780923336466,
+            "Long": -93.27863771234846,
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "New York Mets": {
+            "ballpark": "Citi Field",
+            "Lat": 40.75732335970759,
+            "Long": -73.8458320307336, 
+            "Impacted by Rain" :true
+         }
+      },      
+      {
+         "New York Yankees": {
+            "ballpark": "Yankee Stadium",
+            "Lat": 40.82988612030579,
+            "Long": -73.92616377306071, 
+            "Impacted by Rain" :true
+         }
+      },      
+      {
+         "Oakland Athletics": {
+            "ballpark": "RingCentral Coliseum",
+            "Lat": 37.751849069204596,
+            "Long": -122.2005350731276, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "Philadelphia Phillies": {
+            "ballpark": "Citizens Bank Park",
+            "Lat": 39.9062547006199,
+            "Long": -75.16642010006747, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "Pittsburgh Pirates": {
+            "ballpark": "PNC Park",
+            "Lat": 40.447136932356145,
+            "Long": -80.00569467306931, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "San Diego Padres": {
+            "ballpark": "Petco Park",
+            "Lat": 32.70787431043951,
+            "Long": -117.15698235788312, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "San Francisco Giants": {
+            "ballpark": "Oracle Park",
+            "Lat": 37.77880707694472,
+            "Long": -122.38932344614095, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "Seattle Mariners": {
+            "ballpark": "T-Mobile Park",
+            "Lat": 47.59152558540431,
+            "Long": -122.33252995940241, 
+            "Impacted by Rain" :false
+         }
+      },
+      {
+         "St. Louis Cardinals": {
+            "ballpark": "Busch Stadium",
+            "Lat": 38.622794804799256,
+            "Long": -90.19279944427362, 
+            "Impacted by Rain" :true
+         }
+      },
+      {
+         "Tampa Bay Rays": {
+            "ballpark": "Tropicana Field",
+            "Lat": 27.76836698214277,
+            "Long": -82.65339210214243, 
+            "Impacted by Rain" :false
+         }
+      },      
+      {
+         "Texas Rangers": {
+            "ballpark": "Globe Life Field",
+            "Lat": 32.747822771022115,
+            "Long": -97.08435558671809, 
+            "Impacted by Rain" :false
+         }
+      },
+      {
+         "Toronto Blue Jays": {
+            "ballpark": "Rogers Centre",
+            "Lat": 43.64199717419747,
+            "Long": -79.38918661717312, 
+            "Impacted by Rain" :false
+         }
+      },
+      {
+         "Washington Nationals": {
+            "ballpark": "Nationals Park",
+            "Lat": 38.87326911639469,
+            "Long": -77.00735780009003, 
+            "Impacted by Rain" :true
+         }
+      }
+   ]
+}
