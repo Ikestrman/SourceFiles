@@ -1,7 +1,8 @@
 {
    "teams": [
       {
-         "Arizona Diamondbacks": {
+         "Name" : "Arizona Diamondbacks",
+         "Metadata" : {
             "ballpark": "Chase Field",
             "Lat": 33.44582431867999,
             "Long": -112.06668907349152,
@@ -9,7 +10,8 @@
          }
       },
       {
-         "Atlanta Braves": {
+         "Name" : "Atlanta Braves",
+         "Metadata" : {
             "ballpark": "Truist Park",
             "Lat": 33.891278324354204,
             "Long": -84.46844980203973, 
@@ -17,7 +19,8 @@
          }
       },
       {
-         "Baltimore Orioles": {
+         "Name" : "Baltimore Orioles",
+         "Metadata" : {
             "ballpark": "Oriole Park at Camden Yards",
             "Lat": 39.28414298694784,
             "Long": -76.62154394425933, 
@@ -25,7 +28,8 @@
          }
       },
       {
-         "Boston Red Sox": {
+         "Name" : "Boston Red Sox",
+         "Metadata" : {
             "ballpark": "Fenway Park",
             "Lat": 42.346922193075045,
             "Long": -71.09711051350499, 
@@ -33,7 +37,8 @@
          }
       },
       {
-         "Chicago Cubs": {
+         "Name" : "Chicago Cubs",
+         "Metadata": {
             "ballpark": "Wrigley Field",
             "Lat": 41.948574031189914,
             "Long": -87.65533270187068, 
@@ -41,7 +46,8 @@
          }
       },      
       {
-         "Chicago White Sox": {
+         "Name" : "Chicago White Sox",
+         "Metadata" : {
             "ballpark": "Guaranteed Rate Field",
             "Lat": 41.83016589244836,
             "Long": -87.63380584605163, 
@@ -49,7 +55,8 @@
          }
       },
       {
-         "Cincinnati Reds": {
+          "Name" : "Cincinnati Reds",
+          "Metadata" : {
             "ballpark": "Great American Ball Park",
             "Lat": 39.09758061247238,
             "Long": -84.50700702892082, 
@@ -57,7 +64,8 @@
          }
       }, 
       {
-         "Cleveland Indians": {
+         "Name" : "Cleveland Indians",
+         "Metadata" : {
             "ballpark": "Progressive Field",
             "Lat": 41.49647616318711,
             "Long": -81.6851538000316, 
@@ -65,7 +73,8 @@
          }
       },
       {
-         "Colorado Rockies": {
+         "Name" : "Colorado Rockies",
+         "Metadata" : {
             "ballpark": "Coors Field",
             "Lat": 39.75607198487859,
             "Long": -104.99415664424899, 
@@ -73,7 +82,8 @@
          }
       },      
       {
-         "Detroit Tigers": {
+         "Name" : "Detroit Tigers",
+         "Metadata" : {
             "ballpark": "Comerica Park",
             "Lat": 42.33920457091839,
             "Long": -83.04851970186158, 
@@ -81,7 +91,8 @@
          }
       },
       {
-         "Houston Astros": {
+         "Name" : "Houston Astros",
+         "Metadata" : {
             "ballpark": "Minute Maid Park",
             "Lat": 29.757520862026368,
             "Long": -95.35544992909773, 
@@ -89,7 +100,8 @@
          }
       },
       {
-         "Kansas City Royals": {
+         "Name" : "Kansas City Royals",
+         "Metadata" : {
             "ballpark": "Kauffman Stadium",
             "Lat": 39.05193016422485,
             "Long": -94.48042149029213, 
@@ -97,7 +109,8 @@
          }
       },
       {
-         "Los Angeles Angels": {
+         "Name" : "Los Angeles Angels",
+         "Metadata" : {
             "ballpark": "Angel Stadium",
             "Lat": 33.80055761330399,
             "Long": -117.88274283087713, 
@@ -105,7 +118,8 @@
          }
       },
       {
-         "Los Angeles Dodgers": {
+         "Name" : "Los Angeles Dodgers",
+         "Metadata" : {
             "ballpark": "Dodger Stadium",
             "Lat": 34.074117586213816,
             "Long": -118.23992611552934,
@@ -113,7 +127,8 @@
          }
       },
       {
-         "Miami Marlins": {
+         "Name" : "Miami Marlins",
+         "Metadata" : {
             "ballpark": "Marlins Park",
             "Lat": 25.77832258425075,
             "Long": -80.21962125984213, 
@@ -121,7 +136,8 @@
          }
       },      
       {
-         "Milwaukee Brewers": {
+         "Name" : "Milwaukee Brewers",
+         "Metadata" : {
             "ballpark": "American Family Field",
             "Lat": 43.02815796788473,
             "Long": -87.97109675766706, 
@@ -129,7 +145,8 @@
          }
       },
       {
-         "Minnesota Twins": {
+         "Name" : "Minnesota Twins",
+         "Metadata" : {
             "ballpark": "Target Field",
             "Lat": 44.981780923336466,
             "Long": -93.27863771234846,
@@ -137,7 +154,8 @@
          }
       },
       {
-         "New York Mets": {
+         "Name" : "New York Mets",
+         "Metadata" : {
             "ballpark": "Citi Field",
             "Lat": 40.75732335970759,
             "Long": -73.8458320307336, 
@@ -145,7 +163,8 @@
          }
       },      
       {
-         "New York Yankees": {
+         "Name" : "New York Yankees",
+         "Metadata" : {
             "ballpark": "Yankee Stadium",
             "Lat": 40.82988612030579,
             "Long": -73.92616377306071, 
@@ -153,7 +172,8 @@
          }
       },      
       {
-         "Oakland Athletics": {
+         "Name" : "Oakland Athletics",
+         "Metadata" : {
             "ballpark": "RingCentral Coliseum",
             "Lat": 37.751849069204596,
             "Long": -122.2005350731276, 
@@ -161,7 +181,8 @@
          }
       },
       {
-         "Philadelphia Phillies": {
+         "Name" : "Philadelphia Phillies",
+         "Metadata" : {
             "ballpark": "Citizens Bank Park",
             "Lat": 39.9062547006199,
             "Long": -75.16642010006747, 
@@ -169,7 +190,8 @@
          }
       },
       {
-         "Pittsburgh Pirates": {
+         "Name" : "Pittsburgh Pirates",
+         "Metadata" : {
             "ballpark": "PNC Park",
             "Lat": 40.447136932356145,
             "Long": -80.00569467306931, 
@@ -177,7 +199,8 @@
          }
       },
       {
-         "San Diego Padres": {
+         "Name" : "San Diego Padres",
+         "Metadata" : {
             "ballpark": "Petco Park",
             "Lat": 32.70787431043951,
             "Long": -117.15698235788312, 
@@ -185,7 +208,8 @@
          }
       },
       {
-         "San Francisco Giants": {
+         "Name" : "San Francisco Giants",
+         "Metadata" : {
             "ballpark": "Oracle Park",
             "Lat": 37.77880707694472,
             "Long": -122.38932344614095, 
@@ -193,7 +217,8 @@
          }
       },
       {
-         "Seattle Mariners": {
+         "Name" : "Seattle Mariners",
+         "Metadata" : {
             "ballpark": "T-Mobile Park",
             "Lat": 47.59152558540431,
             "Long": -122.33252995940241, 
@@ -201,7 +226,8 @@
          }
       },
       {
-         "St. Louis Cardinals": {
+         "Name" : "St. Louis Cardinals",
+         "Metadata" : {
             "ballpark": "Busch Stadium",
             "Lat": 38.622794804799256,
             "Long": -90.19279944427362, 
@@ -209,7 +235,8 @@
          }
       },
       {
-         "Tampa Bay Rays": {
+         "Name" : "Tampa Bay Rays",
+         "Metadata" : {
             "ballpark": "Tropicana Field",
             "Lat": 27.76836698214277,
             "Long": -82.65339210214243, 
@@ -217,7 +244,8 @@
          }
       },      
       {
-         "Texas Rangers": {
+         "Name" : "Texas Rangers",
+         "Metadata" : {
             "ballpark": "Globe Life Field",
             "Lat": 32.747822771022115,
             "Long": -97.08435558671809, 
@@ -225,7 +253,8 @@
          }
       },
       {
-         "Toronto Blue Jays": {
+         "Name" : "Toronto Blue Jays",
+         "Metadata" : {
             "ballpark": "Rogers Centre",
             "Lat": 43.64199717419747,
             "Long": -79.38918661717312, 
@@ -233,7 +262,8 @@
          }
       },
       {
-         "Washington Nationals": {
+         "Name" : "Washington Nationals",
+         "Metadata" : {
             "ballpark": "Nationals Park",
             "Lat": 38.87326911639469,
             "Long": -77.00735780009003, 
